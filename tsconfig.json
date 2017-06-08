@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": false,
+    "outFile": "./example.js"
+  },
+  "compileOnSave": true,
+  "files": [
+    "variables.ts",
+    "functions.ts"
+  ]
+}
